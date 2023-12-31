@@ -1,0 +1,41 @@
+body{
+    background-color: #FFE5B4;
+
+}
+
+.home{ 
+    border:2px solid burlywood;    
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: underline;
+    color: black;
+    
+} 
+.home a {   
+    text-decoration: none;
+    color: black;
+}
+div.landscape{
+background-color: #333;
+overflow: auto;
+white-space: nowrap;
+padding: 10px;
+border: 20px solid burlywood;
+border-radius: 50px;
+color: burlywood;
+}
+div.landscape img{
+    padding: 10px;
+    height: 40em;
+    width: auto;
+}
+.BY{
+    color: burlywood;
+    border:2px solid burlywood; 
+    border-radius: 50px;
+    border-width: 10px;
+    text-align: center;
+    background-color: #333;
+    white-space: nowrap;
+
+}
